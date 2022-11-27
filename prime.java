@@ -7,9 +7,5 @@ class prime{
       c++;}
     
     }
-    if(c==2){
-      System.out.println("prime");}
-    else{
-      System.out.println("not prime"):}
-  }
+   
 }
